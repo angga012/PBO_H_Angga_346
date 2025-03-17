@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e209451e-b08c-4b1a-982f-68c57fa8da03" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../IDEA/CODELAB/MODUL-2/MODUL-2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PBO_SEMESTER_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modul2/codelab1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modul2/codelab2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modul3/codelab1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tugas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas Matematika Diskrit .docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~$gas Matematika Diskrit .docx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2uQfcDDZNYvjAmIfDuX62IqrvZX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.codelab.executor": "Run",
+    "Application.codelab1.executor": "Run",
+    "Application.codelab2.executor": "Run",
+    "Application.modul2.codelab1.executor": "Run",
+    "Application.tugas.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/sesmester 2/PBO_SEMESTER_2",
+    "onboarding.tips.debug.path": "C:/sesmester 2/PBO_SEMESTER_2/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.codelab">
+    <configuration name="cl1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cl1" />
+      <module name="PBO_SEMESTER_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="codelab" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codelab" />
+      <module name="PBO_SEMESTER_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="codelab2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codelab2" />
+      <module name="PBO_SEMESTER_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="modul2.codelab1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modul2.codelab1" />
+      <module name="PBO_SEMESTER_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modul2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tugas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tugas" />
+      <module name="PBO_SEMESTER_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.codelab" />
+        <item itemvalue="Application.modul2.codelab1" />
+        <item itemvalue="Application.cl1" />
+        <item itemvalue="Application.codelab2" />
+        <item itemvalue="Application.tugas" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e209451e-b08c-4b1a-982f-68c57fa8da03" name="Changes" comment="" />
+      <created>1742185800269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742185800269</updated>
+    </task>
+    <servers />
+  </component>
+</project>
