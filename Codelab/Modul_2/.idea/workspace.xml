@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b111da14-94a5-4a63-bdde-f27e2b595b13" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/untitled/src/Cl2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul_1/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../Modul_1/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul_1/src/cl1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Modul_1/src/Cl1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modul_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Modul_2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cl1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cl2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas/tugas/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas/tugas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas/tugas/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas/tugas/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas/tugas/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas/tugas/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas/tugas/tugas.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2vRKuuozVljNvz9H24TbOSrnCRM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Cl1.executor": "Run",
+    "Application.Cl2.executor": "Run",
+    "Application.cl1.executor": "Run",
+    "Application.cl2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/sesmester 2/PBO_SEMESTER_2/Tugas"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b111da14-94a5-4a63-bdde-f27e2b595b13" name="Changes" comment="" />
+      <created>1744102672388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744102672388</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -49,7 +49,7 @@ class RekeningBank {
 }
 
 // Kelas Main untuk menjalankan program
-public class cl2{
+public class Cl2{
     public static void main(String[] args) {
         // Membuat dua objek RekeningBank dengan data awal
         RekeningBank rekening1 = new RekeningBank("202410370110346", "Anggara", 500000.0);

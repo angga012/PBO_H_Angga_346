@@ -6,8 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="e209451e-b08c-4b1a-982f-68c57fa8da03" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../IDEA/CODELAB/MODUL-2/MODUL-2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugas/tugas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas/tugas/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PBO_SEMESTER_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modul2/codelab1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modul2/codelab2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modul3/codelab1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tugas.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Tugas Matematika Diskrit .docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../~$gas Matematika Diskrit .docx" beforeDir="false" />
     </list>
@@ -49,7 +57,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/sesmester 2/PBO_SEMESTER_2/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.cl1">
     <configuration name="cl1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cl1" />
       <module name="PBO_SEMESTER_2" />

@@ -20,7 +20,7 @@ class Hewan {
     }
 }
 // Kelas utama untuk menjalankan program
-public class cl1 {
+public class Cl1 {
     public static void main(String[] args) {
         // Membuat objek hewan pertama (Kucing)
         Hewan hewan1 = new Hewan("Kucing", "Mamalia", "nyaan~");
