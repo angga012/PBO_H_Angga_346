@@ -33,7 +33,7 @@ public class tugas1 {
         Admin admin = new Admin();
         Mahasiswa mahasiswa = new Mahasiswa();
 
-        System.out.println("=== Sistem Login Sederhana ===");
+        System.out.println(" Sistem Login Sederhana ");
         System.out.println("1. Admin");
         System.out.println("2. Mahasiswa");
         System.out.print("Pilih jenis login (1/2): ");
