@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="laporan_dan_codelab">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/laporan_dan_codelab.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
