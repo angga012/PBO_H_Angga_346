@@ -14,7 +14,7 @@ public class ManejemenStok {
 
         int pilihan ;
         do {
-            System.out.println("/n-Menu Manejemen Stok-");
+            System.out.println("\n-Menu Manejemen Stok-");
             System.out.println("1.Tambah Barang Baru");
             System.out.println("2.Tampilkan Semua Barang");
             System.out.println("3.Kurangi Stok Barang");
@@ -74,6 +74,7 @@ public class ManejemenStok {
                             int jumlahAmbil = scanner.nextInt();
 
                             Barang barangDipilih = daftarBarang.get(indeks);
+
                             if (jumlahAmbil > barangDipilih.getStok()) {
                                 throw new StokTidakCukupException(
                                         "Stok untuk " + barangDipilih.getNama() + " hanya tersisa " + barangDipilih.getStok());

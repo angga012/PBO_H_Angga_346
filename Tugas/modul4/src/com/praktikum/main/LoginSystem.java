@@ -17,7 +17,7 @@ public class LoginSystem {
             scanner.nextLine();
 
             if (pilihan == 1) {
-                Admin admin = new Admin("Admin351", "password351", "Rifky Septian", "202410370110351");
+                Admin admin = new Admin("Admin346", "password346", "Rifky Septian", "202410370110351");
                 System.out.print("Masukkan username: ");
                 String username = scanner.nextLine();
                 System.out.print("Masukkan password: ");
@@ -31,7 +31,7 @@ public class LoginSystem {
                 }
 
             } else if (pilihan == 2) {
-                Mahasiswa mhs = new Mahasiswa("Rifky Septian", "202410370110351");
+                Mahasiswa mhs = new Mahasiswa("Anggara Aribawa Paramesti", "202410370110346");
                 System.out.print("Masukkan nama: ");
                 String nama = scanner.nextLine();
                 System.out.print("Masukkan NIM: ");
